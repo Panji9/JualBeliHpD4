@@ -1,5 +1,5 @@
 # JualBeliHpD4
 UTS Pemrograman Mobile
-Satria Panji Pangestu
-TI17D4
-311710142
+Nama: Satria Panji Pangestu
+Nim: TI17D4
+Kelas: 311710142
